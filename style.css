@@ -433,6 +433,9 @@ footer p {
 /* body{
   background-color: rgb(122, 64, 177);
 } */
-/* body{
+body{
   background-color: rgb(171, 123, 131);
-} */
+}
+.image{
+    border-radius: 50%;
+}
